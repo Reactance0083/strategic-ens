@@ -1,0 +1,9 @@
+check,question,source_system_evidence,target_system_evidence,status,evidence_owner,gap_or_action
+Instrument identity,"Is the instrument identifier, issuer and authoritative record unchanged?",,,,,
+Authority,"Can the target verify who issued the asset and who may change its record?",,,,,
+Rights and obligations,"Are ownership rights, obligations and transfer restrictions preserved?",,,,,
+Data and semantics,"Do both systems interpret identifiers, fields, status and events consistently?",,,,,
+Lifecycle history,"Are servicing events, corporate actions and restriction history retained or verifiably linked?",,,,,
+Participants and trust,"Can participant identity, role and eligibility evidence still be checked?",,,,,
+Controls and compliance,"Can authorized parties still monitor and enforce policy, eligibility and lifecycle actions?",,,,,
+Settlement and finality,"Is the transfer legally and operationally final in the target system?",,,,,
