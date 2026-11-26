@@ -1,0 +1,2 @@
+handoff_id,principal,agent_id,identity_issuer,target_resource,requested_action,scope_ceiling,proof_of_possession,supervisor_or_approver,approval_required,credential_expiry,revocation_checked,decision,correlation_id,evidence_location,notes
+,,,,,,,,,,,,,,,
